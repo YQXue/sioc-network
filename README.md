@@ -1,6 +1,7 @@
 # sioc-network
    
-此PY文件在CMD命令行下可以直接调用。  
+python环境下直接使用：python autologin.py
+Windows下CMD命令行下调用前需要安装python环境。  
 
 注意用户名和密码不是原始的用户名和密码，    
 所里面经过了加密，如我账号原来是"xueyanqing"，加密后变为"xueyanqing@portal"。
